@@ -18,17 +18,17 @@ body{
 
 .body-text{
     font-family: var(--font-1);
-    font-size: 1.2vw;
+    font-size: 1.4vw;
     font-weight: 400;
-    line-height: 2vw;
+    line-height: 2.2vw;
     color: #000;
 }
 
 .questions{
     font-family: var(--font-2);
-    font-size: 1.4vw;
+    font-size: 1.6vw;
     font-weight: 700;
-    line-height: 2vw;
+    line-height: 2.2    vw;
     color: #000;
 }
 
@@ -186,21 +186,21 @@ img{
 /* responsive */
 @media screen and (max-width: 990px) {
     .body-text {
-        font-size: 1.6vw;
-        line-height: 2.6vw;
+        font-size: 2.8vw;
+        line-height: 3.8vw;
     }
 
     .questions {
-        font-size: 2vw;
-        line-height: 2.6vw;
+        font-size: 3.2vw;
+        line-height: 3.8vw;
     }
     
     .sc-2 p {
-        width: 75%;
+        width: 80%;
     }
 
     .sc-3 {
-        width: 75%;
+        width: 80%;
     }
 
     .bg-quote-1, .bg-quote-3 {
@@ -210,13 +210,13 @@ img{
 
 @media screen and (max-width: 620px) {
     .body-text {
-        font-size: 2vw;
-        line-height: 3vw;
+        font-size: 3.2vw;
+        line-height: 4.2vw;
     }
 
     .questions {
-        font-size: 2.4vw;
-        line-height: 3vw;
+        font-size: 3.7vw;
+        line-height: 4.2vw;
     }
     
     .sc-2 p {
@@ -239,13 +239,13 @@ img{
 
 @media screen and (max-width: 450px) {
     .body-text {
-        font-size: 2.4vw;
-        line-height: 3.6vw;
+        font-size: 4vw;
+        line-height: 5vw;
     }
 
     .questions {
-        font-size: 2.8vw;
-        line-height: 3.6vw;
+        font-size: 4.6vw;
+        line-height: 5vw;
     }
 
     .bg-quote-2, .bg-quote-4 {
