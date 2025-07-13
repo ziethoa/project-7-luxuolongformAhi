@@ -211,20 +211,23 @@ img{
 @media screen and (max-width: 620px) {
     .body-text {
         font-size: 3.2vw;
-        line-height: 4.2vw;
+        line-height: 4.4vw;
     }
 
     .questions {
         font-size: 3.7vw;
-        line-height: 4.2vw;
+        line-height: 5vw;
     }
     
     .sc-2 p {
         width: 90%;
+        margin: 4% auto 0;
+        text-align: justify;
     }
 
     .sc-3 {
         width: 100%;
+        margin: 6% auto 0;
     }
 
     .imgbg-2 {
@@ -245,7 +248,7 @@ img{
 
     .questions {
         font-size: 4.6vw;
-        line-height: 5vw;
+        line-height: 5.4vw;
     }
 
     .bg-quote-2, .bg-quote-4 {
