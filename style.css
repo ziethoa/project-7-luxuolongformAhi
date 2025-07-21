@@ -98,13 +98,13 @@ img{
 }
 
 .sc-2 p{
-    width: 50%;
+    width: 100%;
     max-width: 720px;
     margin: 2% auto 0;
 }
 
 .sc-3 {
-    width: 50%;
+    width: 100%;
     max-width: 720px;
     padding-top: 2%;
     margin: 2% auto 0;
@@ -184,7 +184,7 @@ img{
 }
 
 /* responsive */
-@media screen and (max-width: 990px) {
+/* @media screen and (max-width: 990px) {
     
     .sc-2 p {
         width: 80%;
@@ -197,13 +197,14 @@ img{
     .bg-quote-1, .bg-quote-3 {
         top: 5%;
     }
-}
+} */
 
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 767px) {
     
     
     .sc-2 p {
-        width: 90%;
+        width: 100%;
+        padding: 0 15px;
         margin: 4% auto 0;
         text-align: justify;
     }
